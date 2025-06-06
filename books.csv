@@ -1,0 +1,31 @@
+BookID,Title,Author,Year,RarityLevel,Language,Category
+1,Rare Book 1,Gabriel García Márquez,1871,Low,English,Science
+2,Rare Book 2,Toni Morrison,1848,High,English,History
+3,Rare Book 3,Toni Morrison,1942,Low,English,Science
+4,Rare Book 4,Franz Kafka,1864,Very High,Spanish,Art
+5,Rare Book 5,Virginia Woolf,1827,Medium,French,Literature
+6,Rare Book 6,Haruki Murakami,1832,Low,English,Literature
+7,Rare Book 7,Toni Morrison,1889,Medium,Spanish,Science
+8,Rare Book 8,Gabriel García Márquez,1912,High,Spanish,Literature
+9,Rare Book 9,Franz Kafka,1889,Medium,Spanish,Philosophy
+10,Rare Book 10,Virginia Woolf,1942,High,French,Literature
+11,Rare Book 11,Gabriel García Márquez,1964,Very High,Spanish,Philosophy
+12,Rare Book 12,Haruki Murakami,1939,Medium,French,Art
+13,Rare Book 13,Gabriel García Márquez,1820,Medium,German,Art
+14,Rare Book 14,Virginia Woolf,1887,Very High,Spanish,Literature
+15,Rare Book 15,Toni Morrison,1932,Low,German,Science
+16,Rare Book 16,Franz Kafka,1834,Very High,English,History
+17,Rare Book 17,Toni Morrison,1850,Medium,Spanish,History
+18,Rare Book 18,Franz Kafka,1892,High,English,Literature
+19,Rare Book 19,Gabriel García Márquez,1939,Very High,Spanish,Science
+20,Rare Book 20,Gabriel García Márquez,1904,Very High,French,History
+21,Rare Book 21,Virginia Woolf,1848,Very High,German,History
+22,Rare Book 22,Gabriel García Márquez,1900,High,English,Science
+23,Rare Book 23,Haruki Murakami,1930,Low,English,Art
+24,Rare Book 24,Gabriel García Márquez,1874,High,German,History
+25,Rare Book 25,Virginia Woolf,1802,High,English,History
+26,Rare Book 26,Virginia Woolf,1836,Low,German,Literature
+27,Rare Book 27,Franz Kafka,1928,Medium,German,Science
+28,Rare Book 28,Gabriel García Márquez,1815,Medium,English,History
+29,Rare Book 29,Haruki Murakami,1916,High,French,Art
+30,Rare Book 30,Virginia Woolf,1895,High,French,History
