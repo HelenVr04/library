@@ -1,4 +1,6 @@
 CASO DE ESTUDIO: SISTEMA DE PRÉSTAMO DE LIBROS RAROS Y ANTIGUOS
+
+
 El sistema está diseñado con un esquema tipo estrella (star schema), que consta de una tabla de hechos central y varias tablas de dimensiones que la rodean, esto facilita consultas rápidas y análisis detallados.
 
 •	Tabla de hechos: Loans (Préstamos):
